@@ -73,6 +73,7 @@ An animation showing the landing information of an airplane
 
 #### Twitter Like App
 
+#### Uber Like App
 
 #### StepsApp: 
 Steps counting animation
